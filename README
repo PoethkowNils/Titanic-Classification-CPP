@@ -1,0 +1,13 @@
+The functions implemented can build a Neural Network suited for the use on the Titanic Dataset. The Number of Neurons in the Hidden can be set to any number, but there is maximum of 2 hidden Layers, since the backpropagation algorithm is implemented for exactly 2 hidden layers.
+
+The test conducted used the following architecture.
+    Neural Network with:
+        Input layer: 4 Neuron
+        Hidden layer 1: 7 Neuron, ReLu activation
+        Hidden layer 2: 5 Neuron, ReLu activation
+        Output layer: 1 Neuron, Sigmoid activation
+
+    Fully connected Network, experiment with adjustments to the network.
+
+The best achieved accuracy with this architecture was about 78% - 80%.
+
