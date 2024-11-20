@@ -1,4 +1,6 @@
-The functions implemented can build a Neural Network suited for the use on the Titanic Dataset. The Number of Neurons in the Hidden can be set to any number, but there is maximum of 2 hidden Layers, since the backpropagation algorithm is implemented for exactly 2 hidden layers.
+The functions implemented can build a Neural Network suited for the use on the Titanic Dataset. The Number of Neurons in the Hidden can be set to any number, but there is maximum of 2 hidden Layers, since the backpropagation algorithm is implemented for exactly 2 hidden layers. 
+
+The code also includes the full data cleaning and preparation process, also done in C++.
 
 The test conducted used the following architecture.
     Neural Network with:
